@@ -1,0 +1,13 @@
+# Docker & Database
+leaf_db_data/
+*.log
+
+# Java / Quarkus / Maven (Dự phòng cho EduGame AI hoặc project Java của bạn)
+target/
+.mvn/
+*.class
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
